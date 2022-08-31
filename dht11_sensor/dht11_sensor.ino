@@ -1,7 +1,3 @@
-//------------------------------------------------
-// Program From : www.warriornux.com
-//------------------------------------------------
- 
 #include "dht.h"
 #define sensor 14 
 dht DHT;
